@@ -1,0 +1,15 @@
+.content {
+    flex-grow: 1; 
+}
+
+.content p {
+    text-align: left;
+}
+
+.aligncenter {
+    border: 1px solid black;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}

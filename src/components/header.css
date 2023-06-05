@@ -1,0 +1,35 @@
+.header {
+    margin: 0 auto 40px;
+    background-color: chocolate;
+    color: white;
+    padding: 20px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    max-width: 200px;
+}
+
+.header .main-navigation {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-transform: uppercase;
+    display: flex;
+}
+
+.header .main-navigation li {
+    margin-left: 10px;
+}
+
+.header .main-navigation a {
+    text-decoration: none;
+    color: white;
+}
+
+.header .main-navigation a:hover {
+    color: aqua;
+}
+
